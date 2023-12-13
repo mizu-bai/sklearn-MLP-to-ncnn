@@ -1,3 +1,3 @@
-# sklearn neural network to ncnn
+# sklearn MLP to ncnn
 
-Convert sklearn neural network to ncnn
+A sklearn MLP to ncnn converter.
