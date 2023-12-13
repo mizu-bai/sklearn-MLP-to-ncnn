@@ -1,0 +1,6 @@
+7767517
+4 4
+Input               input                0 1  input_blob 0=784
+InnerProduct        layer_0              1 1 input_blob layer_0_blob 0=64 1=1 2=50176
+ReLU                layer_0_relu         1 1 layer_0_blob layer_0_relu_blob
+InnerProduct        layer_1              1 1 layer_0_relu_blob layer_1_blob 0=784 1=1 2=50176
