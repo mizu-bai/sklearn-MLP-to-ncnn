@@ -13,7 +13,7 @@ def _parse_args():
         "-s",
         "--skl-mlp",
         type=str,
-        help="path scikit-learn MLP model",
+        help="path to scikit-learn MLP model",
         required=True,
     )
 
